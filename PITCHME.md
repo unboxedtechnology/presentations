@@ -62,19 +62,27 @@ Full feature demo: https://gitpitch.com/gitpitch/kitchen-sink
 
 ## How does it work?
 
-1. Slides go in PITCHME.md <!-- .element: class="fragment" -->
-1. Uses Bootstrap and Reveal.js <!-- .element: class="fragment" -->
-1. Piped into the Play Framework 2.5x <!-- .element: class="fragment" -->
+- Slides in PITCHME.md
+- Bootstrap and Reveal.js
+- Play Framework 2.5x
 
 #HSLIDE
 
 ## Let's try it out!
 
-Roll up your sleeves. We're about to get busy!
+Roll up your sleeves and let's get busy!
 
-#HSLIDE
+#VSLIDE
 
-## What did you think?
+#### Clone the example repository
+
+```bash
+git clone git@bitbucket.org:unboxedtech/devtalk-gitpitch.git
+```
+
+#VSLIDE
+
+#### That's it. What did you think?
 
 #HSLIDE
 
