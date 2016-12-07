@@ -54,6 +54,7 @@ Get the tool out of the way and focus on content <!-- .element: class="fragment"
 #HSLIDE
 
 ## Quick Demo
+[https://gitpitch.com/gitpitch/gitpitch](https://gitpitch.com/gitpitch/gitpitch)
 <https://gitpitch.com/gitpitch/gitpitch>
 
 Full feature demo: <https://gitpitch.com/gitpitch/kitchen-sink>
