@@ -13,14 +13,17 @@ It's a service that turns GitHub (or Bitbucket) repositories into interactive sl
 #HSLIDE
 
 ## Why Use Git Pitch?
+- You're a Git ninja (Hi Terry!) <!-- .element: class="fragment" -->
+- It's in markdown <!-- .element: class="fragment" -->
+- It's in the cloud <!-- .element: class="fragment" -->
+- It's responsive <!-- .element: class="fragment" -->
+- It's easy to collaborate <!-- .element: class="fragment" -->
+- Changes are tracked <!-- .element: class="fragment" -->
+- It doesn't suck (Uh ... PowerPoint? KeyNote?) <!-- .element: class="fragment" -->
 
-- You're a Git ninja (Hi Terry!)
-- It's in markdown
-- It's in the cloud
-- It's responsive
-- It's easy to collaborate
-- Changes are tracked
-- It doesn't suck (Uh ... PowerPoint? KeyNote?) 
+#HSLIDE
+
+## Questions?
 
 #HSLIDE
 
@@ -31,3 +34,7 @@ Rick Beddard is a Technology Aficionado (yes, I had to look up that spelling) lo
 #HSLIDE
 
 (This page left intentionally blank. Except that it's not. Blank, that is.)
+
+#HSLIDE
+
+## The End
