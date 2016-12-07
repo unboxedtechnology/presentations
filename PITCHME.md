@@ -118,9 +118,9 @@ Change the source repository type to Bitbucket (lower left of browser window):
 Add a slide in PITCHME
 
 ```
-&#35;HSLIDE
+\#HSLIDE
 Whassup, Git Pitch!
-##HSLIDE
+\#HSLIDE
 The End
 ```
 Commit your changes and refresh to see the updated prez
@@ -130,12 +130,12 @@ Commit your changes and refresh to see the updated prez
 Add a vertical slide in PITCHME
 
 ```
-#HSLIDE
+\#HSLIDE
 Whassup, Git Pitch!
-#VSLIDE
+\#VSLIDE
 Bring on the kittens!
 ![kitten](images/kitten.jpg)
-#HSLIDE
+\#HSLIDE
 The End
 ```
 Commit your changes and refresh to see the updated prez. Notice you can now navigate down from the first slide.
