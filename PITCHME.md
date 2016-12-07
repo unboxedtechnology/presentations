@@ -110,11 +110,12 @@ git add . && git commit -m "Created PITCHME.md" && git push
 Have a look at your presenation by going to: http://gitpitch.com/unboxedtech/devtalk-gitpitch/name-of-your-branch
 
 Change the source repository type to Bitbucket (lower left of browser window):
+
 ![Bitbucket Selection](images/bitbucket.png)
 
 #VSLIDE
 
-Add a [horizontal--the default] slide. Edit PITCHME.md to be:
+Add a slide. Edit PITCHME.md to be:
 
 ```markdown
 #HSLIDE
