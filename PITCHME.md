@@ -8,14 +8,14 @@ Rick Beddard - 2016.12.07
 
 ## What is Git Pitch?
 
-It's a service that turns GitHub (or Bitbucket) repositories into interactive slideshows.
+A service that turns GitHub (or Bitbucket) repositories into interactive slideshows
 
 #HSLIDE
 
 ## OMG! Not another presentation tool!!
-That was my initial reaction. <!-- .element: class="fragment" -->
+That's what I said <!-- .element: class="fragment" -->
 
-Then I realized this gets the tool out of the way and allows me to focus on the presentation content. <!-- .element: class="fragment" -->
+Get the tool out of the way and focus on content <!-- .element: class="fragment" -->
 
 #HSLIDE
 
@@ -27,13 +27,19 @@ Then I realized this gets the tool out of the way and allows me to focus on the 
 - Collaboration <!-- .element: class="fragment" -->
 - Themes <!-- .element: class="fragment" -->
 - History <!-- .element: class="fragment" -->
-- It doesn't suck (Uh ... PowerPoint? KeyNote?) <!-- .element: class="fragment" -->
+- It doesn't suck (PowerPoint? KeyNote?) <!-- .element: class="fragment" -->
 
 #HSLIDE
 
 ## What kind of things can I do with it?
 
-(Explain basics)
+- Horizontal and vertical <!-- .element: class="fragment" -->
+- Text <!-- .element: class="fragment" -->
+- Images / Video <!-- .element: class="fragment" -->
+- Code / GIST <!-- .element: class="fragment" -->
+- HTML <!-- .element: class="fragment" -->
+- Fragments <!-- .element: class="fragment" -->
+- More... <!-- .element: class="fragment" -->
 
 #HSLIDE
 
