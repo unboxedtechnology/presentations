@@ -117,7 +117,7 @@ Change the source repository type to Bitbucket (lower left of browser window):
 
 Add a slide in PITCHME
 
-```
+```markdown
 \#HSLIDE
 Whassup, Git Pitch!
 \#HSLIDE
@@ -129,7 +129,7 @@ Commit your changes and refresh to see the updated prez
 
 Add a vertical slide in PITCHME
 
-```
+```markdown
 \#HSLIDE
 Whassup, Git Pitch!
 \#VSLIDE
@@ -142,7 +142,7 @@ Commit your changes and refresh to see the updated prez. Notice you can now navi
 
 #VSLIDE
 
-#### That's it. What did you think?
+That's it. What did you think?
 
 #HSLIDE
 
