@@ -2,7 +2,7 @@
 
 # Presentations Using Git Pitch
 
-Rick Beddard - 2016.12.07
+<span class="primary"><strong>Rick Beddard</strong></span> - 2016.12.07
 
 #HSLIDE
 
@@ -158,6 +158,7 @@ That's it. What did you think?
 - [Git Pitch Wiki](https://github.com/gitpitch/gitpitch/wiki)
 - [Git Pitch GitHub Project](https://github.com/gitpitch/gitpitch)
 - [Play Framework](https://playframework.com/)
+- [Unboxed Brand Guide](http://ubt-brandguide.azurewebsites.net/)
 
 #HSLIDE
 
