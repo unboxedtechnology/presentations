@@ -12,19 +12,21 @@ It's a service that turns GitHub (or Bitbucket) repositories into interactive sl
 
 #HSLIDE
 
-## OMG!
-### Not another presentation tool!
+## OMG! Not another presentation tool!!
+That was my initial reaction. <!-- .element: class="fragment" -->
+
+Then I realized this gets the tool out of the way and allows me to focus on the presentation content. <!-- .element: class="fragment" -->
 
 #HSLIDE
 
 ## Why Should I Consider It?
-- You're a Git ninja (Hi Terry!) <!-- .element: class="fragment" -->
-- It's in markdown <!-- .element: class="fragment" -->
-- It's in the cloud <!-- .element: class="fragment" -->
-- It's responsive <!-- .element: class="fragment" -->
-- It's easy to collaborate <!-- .element: class="fragment" -->
-- It's customizable (Themes!) <!-- .element: class="fragment" -->
-- Changes are tracked <!-- .element: class="fragment" -->
+- You're a Git ninja (Whassup Terry!) <!-- .element: class="fragment" -->
+- Markdown <!-- .element: class="fragment" -->
+- Cloud <!-- .element: class="fragment" -->
+- Responsive <!-- .element: class="fragment" -->
+- Collaboration <!-- .element: class="fragment" -->
+- Themes <!-- .element: class="fragment" -->
+- History <!-- .element: class="fragment" -->
 - It doesn't suck (Uh ... PowerPoint? KeyNote?) <!-- .element: class="fragment" -->
 
 #HSLIDE
