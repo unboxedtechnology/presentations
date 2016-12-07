@@ -74,11 +74,42 @@ Roll up your sleeves and let's get busy!
 
 #VSLIDE
 
-#### Clone the example repository
+Clone the example repository
 
 ```bash
 git clone git@bitbucket.org:unboxedtech/devtalk-gitpitch.git
 ```
+
+#VSLIDE
+
+Create a branch for your presentation
+
+```bash
+cd devtalk-gitpitch
+git checkout -b <your name>-sample-prez
+```
+
+#VSLIDE
+
+Create the required PITCHME.md
+
+```markdown
+Whassup, Git Pitch!
+```
+
+#VSLIDE
+
+Commit your changes
+
+```bash
+git add . && git commit -m "Created PITCHME.md" && git push
+```
+
+#VSLIDE
+
+Have a look at your presenation
+
+http://gitpitch.com/unboxedtech/devtalk-pitch/<name of your branch>
 
 #VSLIDE
 
