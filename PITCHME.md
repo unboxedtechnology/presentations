@@ -13,13 +13,13 @@ A service that turns GitHub (or Bitbucket) repositories into interactive slidesh
 #HSLIDE
 
 ## OMG! Not another presentation tool!!
-That's what I said <!-- .element: class="fragment" -->
+That was my initial reaction <!-- .element: class="fragment" -->
 
 Get the tool out of the way and focus on content <!-- .element: class="fragment" -->
 
 #HSLIDE
 
-## Why Should I Consider It?
+## Why should I consider it?
 - You're a Git ninja (Whassup Terry!) <!-- .element: class="fragment" -->
 - Markdown <!-- .element: class="fragment" -->
 - Cloud <!-- .element: class="fragment" -->
@@ -31,7 +31,7 @@ Get the tool out of the way and focus on content <!-- .element: class="fragment"
 
 #HSLIDE
 
-## What kind of things can I do with it?
+## What can it do?
 
 - Horizontal and vertical <!-- .element: class="fragment" -->
 - Text <!-- .element: class="fragment" -->
@@ -39,19 +39,35 @@ Get the tool out of the way and focus on content <!-- .element: class="fragment"
 - Code / GIST <!-- .element: class="fragment" -->
 - HTML <!-- .element: class="fragment" -->
 - Fragments <!-- .element: class="fragment" -->
-- More... <!-- .element: class="fragment" -->
+
+#HSLIDE
+
+## But wait! There's more!!
+
+- Promote using a GitHub badge
+- Embed in a blog or website
+- Share on Twitter, LinkedIn, Facebook, etc.
+- Print as a PDF
+- Download and present offline
+- Much more...
 
 #HSLIDE
 
 ## How does it work?
 
-(Describe the technology powering it.)
+1. Slides go in PITCHME.md <!-- .element: class="fragment" -->
+1. Uses Bootstrap and Reveal.js <!-- .element: class="fragment" -->
+1. Piped into the Play Framework 2.5x <!-- .element: class="fragment" -->
 
 #HSLIDE
 
 ## Let's try it out!
 
-(Lab time)
+Roll up your sleeves. We're about to get busy!
+
+#HSLIDE
+
+## What did you think?
 
 #HSLIDE
 
@@ -61,7 +77,10 @@ Get the tool out of the way and focus on content <!-- .element: class="fragment"
 
 ## References
 
-(Links to relevant information)
+- [Git Pitch](http://www.gitpitch.com)
+- [Git Pitch Wiki](https://github.com/gitpitch/gitpitch/wiki)
+- [Git Pitch GitHub Project](https://github.com/gitpitch/gitpitch)
+- [Play Framework](https://playframework.com/)
 
 #HSLIDE
 
