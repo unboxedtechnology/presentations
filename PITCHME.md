@@ -2,11 +2,19 @@
 
 # Presentations Using Git Pitch
 
+Rick Beddard - 2016.12.07
+
 #HSLIDE
 
-# About the Author
+## What is Git Pitch?
 
-Rick Beddard is a Technology Aficionado (yes, I had to look up that spelling) located in Richmond, Virginia. He spends his days changing lives at Unboxed Technology, LLC and his nights pursuing more important endeavors such as being a husband and father.
+Rick Beddard is a Technology Aficionado (yes, I had to look up that spelling) located in Richmond, Virginia. He spends his days changing lives through his work at Unboxed Technology and his nights pursuing highly important endeavors such as being a husband and father.
+
+#HSLIDE
+
+## About the Author
+
+Rick Beddard is a Technology Aficionado (yes, I had to look up that spelling) located in Richmond, Virginia. He spends his days changing lives through his work at Unboxed Technology and his nights pursuing highly important endeavors such as being a husband and father.
 
 #HSLIDE
 
