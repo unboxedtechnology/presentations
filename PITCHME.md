@@ -8,11 +8,11 @@
 
 ## What is Git Pitch?
 
-A service that turns GitHub (or Bitbucket) repositories into interactive slideshows
+A service that turns GitHub (or Bitbucket) repositories into <span class="primary">interactive slideshows</span>
 
 #HSLIDE
 
-## OMG! Not another presentation tool!!
+## Really?! Not another presentation tool!
 That was my initial reaction <!-- .element: class="fragment" -->
 
 Get the tool out of the way and focus on content <!-- .element: class="fragment" -->
@@ -54,9 +54,10 @@ Get the tool out of the way and focus on content <!-- .element: class="fragment"
 #HSLIDE
 
 ## Quick Demo
-https://gitpitch.com/gitpitch/gitpitch
 
-Full feature demo: https://gitpitch.com/gitpitch/kitchen-sink
+<a href="https://gitpitch.com/gitpitch/gitpitch" target="_blank">https://gitpitch.com/gitpitch/gitpitch</a>
+
+Full feature demo: <a href="https://gitpitch.com/gitpitch/kitchen-sink" target="_blank">https://gitpitch.com/gitpitch/kitchen-sink</a>
 
 #HSLIDE
 
@@ -144,7 +145,7 @@ Notice you can now navigate down from the first slide
 
 #VSLIDE
 
-That's it. What did you think?
+That's it. <span class="primary">What did you think?</span>
 
 #HSLIDE
 
@@ -158,13 +159,12 @@ That's it. What did you think?
 - [Git Pitch Wiki](https://github.com/gitpitch/gitpitch/wiki)
 - [Git Pitch GitHub Project](https://github.com/gitpitch/gitpitch)
 - [Play Framework](https://playframework.com/)
-- [Unboxed Brand Guide](http://ubt-brandguide.azurewebsites.net/)
 
 #HSLIDE
 
 ## About the Author
 
-Rick Beddard is a Technology Aficionado (yes, I had to look up that spelling) located in Richmond, Virginia. He spends his days changing lives through his work at Unboxed Technology and his nights pursuing highly important endeavors such as being a husband and father.
+<span class="primary">Rick Beddard</span> is a Technology Aficionado (yes, I had to look up that spelling) located in Richmond, Virginia. He spends his days changing lives through his work at Unboxed Technology and his nights pursuing highly important endeavors such as being a husband and father.
 
 #HSLIDE
 
