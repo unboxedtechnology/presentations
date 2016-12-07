@@ -118,9 +118,9 @@ Change the source repository type to Bitbucket (lower left of browser window):
 Add a slide in PITCHME
 
 ```
-#HSLIDE
+&#35;HSLIDE
 Whassup, Git Pitch!
-#HSLIDE
+##HSLIDE
 The End
 ```
 Commit your changes and refresh to see the updated prez
