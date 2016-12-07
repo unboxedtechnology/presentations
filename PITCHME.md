@@ -115,9 +115,9 @@ Change the source repository type to Bitbucket (lower left of browser window):
 
 #VSLIDE
 
-Add a slide. Edit PITCHME.md to be:
+Add a slide in PITCHME
 
-```markdown
+```Markdown
 #HSLIDE
 Whassup, Git Pitch!
 #HSLIDE
@@ -127,7 +127,7 @@ Commit your changes and refresh to see the updated prez
 
 #VSLIDE
 
-Add a vertical slide. Edit PITCHME.md to be:
+Add a vertical slide in PITCHME
 
 ```markdown
 #HSLIDE
