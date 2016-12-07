@@ -107,9 +107,10 @@ git add . && git commit -m "Created PITCHME.md" && git push
 
 #VSLIDE
 
-Have a look at your presenation
+Have a look at your presenation by going to: http://gitpitch.com/unboxedtech/devtalk-gitpitch/name-of-your-branch
 
-http://gitpitch.com/unboxedtech/devtalk-pitch/<name of your branch>
+Change the source repository type to Bitbucket:
+![Bitbucket Selection](images/bitbucket.png)
 
 #VSLIDE
 
