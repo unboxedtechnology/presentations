@@ -138,7 +138,9 @@ Bring on the kittens!
 \#HSLIDE
 The End
 ```
-Commit your changes and refresh to see the updated prez. Notice you can now navigate down from the first slide.
+Commit your changes and refresh to see the updated prez
+
+Notice you can now navigate down from the first slide
 
 #VSLIDE
 
