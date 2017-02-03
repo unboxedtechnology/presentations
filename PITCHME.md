@@ -16,17 +16,25 @@
 
 #HSLIDE
 
-## UI = User Interface
+## What we won't be discussing
 
+- Typography
+- Color
+- Texture
+- Lines and shapes
+- Scale
+- Dominance and emphasis
+- Balance
+- Harmony
+- Etc...
+
+#HSLIDE
+
+## What do you mean by UI
+
+- User interface
 - Visual layout
 - Styling
-
-<br>
-
-#####NOT
-
-- Interaction
-- Experience
 
 #HSLIDE
 
@@ -44,13 +52,13 @@ It's an acronym which stands for...
 
 ## CRAP Evolved
 
-Robin Williams (the designer, not the actor) coined this acronym in her ground-breaking book aptly named <i>The Non-Designer's Desgin Book</i> (now in it's 4th edition)
+Robin Williams (the designer, not the actor) coined the acronym <b>CRAP</b> in her aptly-named book <i>The Non-Designer's Design Book</i> (now in its 4th edition)
 
 #HSLIDE
 
 ## Spacing
 
-Ensure that sections and components are not too close together. This includes graphical elements, type spacing, line spacing, etc.
+Ensure that elements are not too close together (or too far apart). This includes sections of a page, graphical elements, characters, line spacing, etc. Spacing can be used to both group and separate different pieces of your layout. It can improve legibility, give your eyes a place to rest, and reduce (or increase) clutter / noise.
 
 #HSLIDE
 
