@@ -12,7 +12,7 @@
 - What UI is (for this presentation) <!-- .element: class="fragment" -->
 - 5 attributes that are key to a beautiful UI <!-- .element: class="fragment" -->
 - Reasons why these attributes are important <!-- .element: class="fragment" -->
-- An exercise to make this info stick <!-- .element: class="fragment" -->
+- Practice makes this info stick <!-- .element: class="fragment" -->
 
 #HSLIDE
 
@@ -20,6 +20,8 @@
 
 - Visual layout
 - Styling
+
+<br>
 
 #####NOT
 
