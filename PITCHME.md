@@ -1,27 +1,30 @@
 #HSLIDE
 
 # SCRAP Your UI
-##AND DELIGHT YOUR USERS
+## to delight your users
 
 <span class="primary"><strong>Rick Beddard</strong></span> - 2016.02.16
 
 #HSLIDE
 
-## WHAT'S IN THIS PRESENTATION?
+## What we'll learn
 
-- My definition of UI <!-- .element: class="fragment" -->
+- What UI is (for this presentation) <!-- .element: class="fragment" -->
 - 5 attributes that are key to a beautiful UI <!-- .element: class="fragment" -->
 - Reasons why these attributes are important <!-- .element: class="fragment" -->
 - An exercise to make this info stick <!-- .element: class="fragment" -->
 
 #HSLIDE
 
-## UI === User Interface
-
-For this presentation...
+## UI = User Interface
 
 - Visual layout
 - Styling
+
+#####NOT
+
+- Interaction
+- Experience
 
 #HSLIDE
 
