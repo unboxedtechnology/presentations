@@ -30,6 +30,64 @@
 
 #HSLIDE
 
+## SCRAP
+
+It's an acronym which stands for...
+
+- <span class="primary">S</span>pacing <!-- .element: class="fragment" --> 
+- <span class="primary">C</span>ontrast <!-- .element: class="fragment" -->
+- <span class="primary">R</span>epetition <!-- .element: class="fragment" -->
+- <span class="primary">A</span>lignment <!-- .element: class="fragment" -->
+- <span class="primary">P</span>roximity <!-- .element: class="fragment" -->
+
+#HSLIDE
+
+## CRAP Evolved
+
+Robin Williams (the designer, not the actor) coined this acronym in her ground-breaking book aptly named <i>The Non-Designer's Desgin Book</i> (now in it's 4th edition)
+
+#HSLIDE
+
+## Spacing
+
+#HSLIDE
+
+## Contrast
+
+<blockquote>
+The idea behind contrast is to avoid elements on the page that are merely <i>similar</i>. If the elements (type, color, size, line thickness, shape, space, etc.) are not the <i>same</i>, then make them <b>very different</b>. Contrast is often the most important visual attraction on a page--it's what makes a reader look at the page in the first place.
+<footer>-- Robin Williams</footer>
+</blockquote>
+
+#HSLIDE
+
+## Repetition
+
+<blockquote>
+Repeat visual elements of the design throughout the piece. You can repeat colors, shapes, textures, spacial-relationships, line thicknesses, fonts, sizes, graphic concepts, etc. This develops the organization and strengthens the unity.
+<footer>-- Robin Williams</footer>
+</blockquote>
+
+#HSLIDE
+
+## Alignment
+
+<blockquote>
+Nothing should be placed on a page arbitrarily. Every element should have some visual connection with another element on that page. This creates a clean, sophisticated, fresh look.
+<footer>-- Robin Williams</footer>
+</blockquote>
+
+#HSLIDE
+
+## Proximity
+
+<blockquote>
+Items relating to each other should be grouped close together. When several items are in close proximity to each other, they become one visual unit rather than several separate units. This helps organize information, reduces clutter, and give the reader a clear structure.
+<footer>-- Robin Williams</footer>
+</blockquote>
+
+#HSLIDE
+
 ## Questions?
 
 #HSLIDE
