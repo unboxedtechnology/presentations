@@ -75,7 +75,7 @@ Area around interface elements
 
 #HSLIDE
 
-## Contrast - Example
+## Spacing - Example
 
 ![Spacing](images/SPACING.png)
 
@@ -153,7 +153,7 @@ Grouping related interface elements
 
 #HSLIDE
 
-## Alignment - Example
+## Proximity - Example
 
 ![Proximity](images/PROXIMITY.png)
 
