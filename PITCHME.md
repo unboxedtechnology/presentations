@@ -56,45 +56,66 @@ Robin Williams (the designer, not the actor) coined the acronym <b>CRAP</b> in h
 
 #HSLIDE
 
+## Don't Make Me Think
+
+You'll notice as we talk about of these basic design principles, that they all reduce the mental strain of the user.
+
+Here is where I plug Steve Krug's fantastic book titled <i>Don't Make Me Think</i>. This book is a must-read if you're involved in any way with user interfaces.
+
+#HSLIDE
+
 ## Spacing
 
-Ensure that elements are not too close together (or too far apart). This includes sections of a page, graphical elements, characters, line spacing, etc. Spacing can be used to both group and separate different pieces of your layout. It can improve legibility, give your eyes a place to rest, and reduce (or increase) clutter / noise.
+Area around interface elements
+
+- Usually have too little (visual suffocation)
+- Used to both group and separate
+- Affects legibility, noise, etc.
+- Margin, padding, type spacing, line spacing, etc.
 
 #HSLIDE
 
 ## Contrast
 
-<blockquote>
-The idea behind contrast is to avoid elements on the page that are merely <i>similar</i>. If the elements (type, color, size, line thickness, shape, space, etc.) are not the <i>same</i>, then make them <b>very different</b>. Contrast is often the most important visual attraction on a page--it's what makes a reader look at the page in the first place.
-<footer>-- Robin Williams</footer>
-</blockquote>
+Difference between interface elements
+
+- Most important visual attraction
+- Avoid similar (subtly different) elements
+- Different elements should be distinctly different
+- Type, color, size, line thickness, shape, space, etc.
 
 #HSLIDE
 
 ## Repetition
 
-<blockquote>
-Repeat visual elements of the design throughout the piece. You can repeat colors, shapes, textures, spacial-relationships, line thicknesses, fonts, sizes, graphic concepts, etc. This develops the organization and strengthens the unity.
-<footer>-- Robin Williams</footer>
-</blockquote>
+Consistency among interface elements
+
+- Can occur in a page or across pages (sometimes across products)
+- Creates feel of cohesion and unity
+- Increases perceived credibility (purposeful)
+- Colors, shapes, fonts, sizes, line thicknesses, locations, etc.
 
 #HSLIDE
 
 ## Alignment
 
-<blockquote>
-Nothing should be placed on a page arbitrarily. Every element should have some visual connection with another element on that page. This creates a clean, sophisticated, fresh look.
-<footer>-- Robin Williams</footer>
-</blockquote>
+Connections between interface elements
+
+- Never arbitrary
+- Every element visually connected to another
+- Creates a clean, sophisticated, fresh look
+- Grids, rows, columns, borders, text, icons, etc.
 
 #HSLIDE
 
 ## Proximity
 
-<blockquote>
-Items relating to each other should be grouped close together. When several items are in close proximity to each other, they become one visual unit rather than several separate units. This helps organize information, reduces clutter, and give the reader a clear structure.
-<footer>-- Robin Williams</footer>
-</blockquote>
+Grouping related interface elements
+
+- Multiple elements become one visual unit
+- Organizes information and presents clear structure
+- Increases perceived credibility (purposeful)
+- Reduces noise
 
 #HSLIDE
 
