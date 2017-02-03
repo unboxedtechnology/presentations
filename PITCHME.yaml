@@ -1,3 +1,4 @@
 logo : images/unboxed-logo-color-sm.png
-footnote : "Copyright 2016 Unboxed Technology, LLC"
+footnote : "Copyright 2017 Unboxed Technology, LLC"
 theme-override : unboxed.css
+vertical-center : false
