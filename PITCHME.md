@@ -7,7 +7,7 @@
 
 #HSLIDE
 
-## What we'll learn
+## We'll learn...
 
 - What UI is (for this presentation) <!-- .element: class="fragment" -->
 - 5 attributes that are key to a beautiful UI <!-- .element: class="fragment" -->
@@ -16,7 +16,7 @@
 
 #HSLIDE
 
-## What we won't be discussing
+## But not...
 
 - Typography
 - Color
