@@ -34,11 +34,11 @@
 
 It's an acronym which stands for...
 
-- <span class="primary">S</span>pacing <!-- .element: class="fragment" --> 
-- <span class="primary">C</span>ontrast <!-- .element: class="fragment" -->
-- <span class="primary">R</span>epetition <!-- .element: class="fragment" -->
-- <span class="primary">A</span>lignment <!-- .element: class="fragment" -->
-- <span class="primary">P</span>roximity <!-- .element: class="fragment" -->
+- Spacing <!-- .element: class="fragment" --> 
+- Contrast <!-- .element: class="fragment" -->
+- Repetition <!-- .element: class="fragment" -->
+- Alignment <!-- .element: class="fragment" -->
+- Proximity <!-- .element: class="fragment" -->
 
 #HSLIDE
 
@@ -49,6 +49,8 @@ Robin Williams (the designer, not the actor) coined this acronym in her ground-b
 #HSLIDE
 
 ## Spacing
+
+Ensure that sections and components are not too close together. This includes graphical elements, type spacing, line spacing, etc.
 
 #HSLIDE
 
