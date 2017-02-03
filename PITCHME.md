@@ -81,8 +81,8 @@ Difference between interface elements
 
 - Most important visual attraction
 - Avoid similar (subtly different) elements
-- Different elements should be distinctly different
-- Type, color, size, line thickness, shape, space, etc.
+- Different elements should be very different
+- Type, color, size, line thickness, space, etc.
 
 #HSLIDE
 
@@ -90,10 +90,11 @@ Difference between interface elements
 
 Consistency among interface elements
 
-- Can occur in a page or across pages (sometimes across products)
+- Can occur in a page or across pages
+- Can occur across products
 - Creates feel of cohesion and unity
 - Increases perceived credibility (purposeful)
-- Colors, shapes, fonts, sizes, line thicknesses, locations, etc.
+- Colors, shapes, fonts, sizes, spacing, locations, etc.
 
 #HSLIDE
 
@@ -113,7 +114,8 @@ Connections between interface elements
 Grouping related interface elements
 
 - Multiple elements become one visual unit
-- Organizes information and presents clear structure
+- Organizes information
+- Presents clear structure
 - Increases perceived credibility (purposeful)
 - Reduces noise
 
