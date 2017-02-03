@@ -1,151 +1,27 @@
 #HSLIDE
 
-# Presentations Using Git Pitch
+# SCRAP Your UI
+####AND DELIGHT YOUR USERS
 
-<span class="primary"><strong>Rick Beddard</strong></span> - 2016.12.07
-
-#HSLIDE
-
-## What is Git Pitch?
-
-A service that turns GitHub (or Bitbucket) repositories into <span class="primary">interactive slideshows</span>
+<span class="primary"><strong>Rick Beddard</strong></span> - 2016.02.16
 
 #HSLIDE
 
-## Really?! Not another presentation tool!
-That was my initial reaction <!-- .element: class="fragment" -->
+## WHAT'S IN THIS PRESENTATION?
 
-Get the tool out of the way and focus on content <!-- .element: class="fragment" -->
-
-#HSLIDE
-
-## Why should I consider it?
-- You're a Git ninja (Whassup Terry!) <!-- .element: class="fragment" -->
-- Markdown <!-- .element: class="fragment" -->
-- Cloud <!-- .element: class="fragment" -->
-- Responsive <!-- .element: class="fragment" -->
-- Collaboration <!-- .element: class="fragment" -->
-- Themes <!-- .element: class="fragment" -->
-- History <!-- .element: class="fragment" -->
-- It doesn't suck (PowerPoint? KeyNote?) <!-- .element: class="fragment" -->
+- My definition of UI <!-- .element: class="fragment" -->
+- 5 attributes that are key to a beautiful UI <!-- .element: class="fragment" -->
+- Reasons why these attributes are important <!-- .element: class="fragment" -->
+- An exercise to make this info stick <!-- .element: class="fragment" -->
 
 #HSLIDE
 
-## What can it do?
+## UI === User Interface
 
-- Horizontal and vertical <!-- .element: class="fragment" -->
-- Text <!-- .element: class="fragment" -->
-- Images / Video <!-- .element: class="fragment" -->
-- Code / GIST <!-- .element: class="fragment" -->
-- HTML <!-- .element: class="fragment" -->
-- Fragments <!-- .element: class="fragment" -->
+For this presentation...
 
-#HSLIDE
-
-## But wait! There's more!!
-
-- Promote using a GitHub badge
-- Embed in a blog or website
-- Share on Twitter, LinkedIn, Facebook, etc.
-- Print as a PDF
-- Download and present offline
-- Much more...
-
-#HSLIDE
-
-## Quick Demo
-
-<a href="https://gitpitch.com/gitpitch/gitpitch" target="_blank">https://gitpitch.com/gitpitch/gitpitch</a>
-
-Full feature demo: <a href="https://gitpitch.com/gitpitch/kitchen-sink" target="_blank">https://gitpitch.com/gitpitch/kitchen-sink</a>
-
-#HSLIDE
-
-## How does it work?
-
-- Slides in PITCHME.md
-- Bootstrap and Reveal.js
-- Play Framework 2.5x
-
-#HSLIDE
-
-## Let's try it out!
-
-Roll up your sleeves and let's get busy!
-
-#VSLIDE
-
-Clone the example repository
-
-```bash
-git clone git@bitbucket.org:unboxedtech/devtalk-gitpitch.git
-```
-
-#VSLIDE
-
-Create a branch for your presentation
-
-```bash
-cd devtalk-gitpitch
-git checkout -b <your name>-sample-prez
-```
-
-#VSLIDE
-
-Create the required PITCHME.md
-
-```markdown
-Whassup, Git Pitch!
-```
-
-#VSLIDE
-
-Commit your changes
-
-```bash
-git add . && git commit -m "Created PITCHME.md" && git push
-```
-
-#VSLIDE
-
-Have a look at your presenation by going to: http://gitpitch.com/unboxedtech/devtalk-gitpitch/name-of-your-branch
-
-Change the source repository type to Bitbucket (lower left of browser window):
-
-![Bitbucket Selection](images/bitbucket.png)
-
-#VSLIDE
-
-Add a slide in PITCHME
-
-```markdown
-\#HSLIDE
-Whassup, Git Pitch!
-\#HSLIDE
-The End
-```
-Commit your changes and refresh to see the updated prez
-
-#VSLIDE
-
-Add a vertical slide in PITCHME
-
-```markdown
-\#HSLIDE
-Whassup, Git Pitch!
-\#VSLIDE
-Bring on the kittens!
-![kitten](images/kitten.jpg)
-\#HSLIDE
-The End
-```
-Commit your changes and refresh to see the updated prez
-
-Notice you can now navigate down from the first slide
-
-#VSLIDE
-
-That's it. <span class="primary">What did you think?</span>
+- Visual layout
+- Styling
 
 #HSLIDE
 
@@ -155,10 +31,7 @@ That's it. <span class="primary">What did you think?</span>
 
 ## References
 
-- [Git Pitch](http://www.gitpitch.com)
-- [Git Pitch Wiki](https://github.com/gitpitch/gitpitch/wiki)
-- [Git Pitch GitHub Project](https://github.com/gitpitch/gitpitch)
-- [Play Framework](https://playframework.com/)
+- 
 
 #HSLIDE
 
