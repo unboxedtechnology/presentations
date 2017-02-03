@@ -1,7 +1,7 @@
 #HSLIDE
 
 # SCRAP Your UI
-####AND DELIGHT YOUR USERS
+###AND DELIGHT YOUR USERS
 
 <span class="primary"><strong>Rick Beddard</strong></span> - 2016.02.16
 
