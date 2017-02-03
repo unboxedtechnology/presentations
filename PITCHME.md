@@ -75,6 +75,14 @@ Area around interface elements
 
 #HSLIDE
 
+## Contrast - Example
+
+![Spacing](images/SPACING.png)
+
+https://www.google.com
+
+#HSLIDE
+
 ## Contrast
 
 Difference between interface elements
@@ -83,6 +91,14 @@ Difference between interface elements
 - Avoid similar (subtly different) elements
 - Different elements should be very different
 - Type, color, size, line thickness, space, etc.
+
+#HSLIDE
+
+## Contrast - Example
+
+![Constrast](images/CONTRAST.png)
+
+http://www.userfocus.co.uk/articles/A_CRAP_way_to_improve_usability.html
 
 #HSLIDE
 
@@ -98,6 +114,14 @@ Consistency among interface elements
 
 #HSLIDE
 
+## Repetition - Example
+
+![Repetition](images/REPETITION.png)
+
+https://vwo.com/blog/crap-design-principles/
+
+#HSLIDE
+
 ## Alignment
 
 Connections between interface elements
@@ -106,6 +130,14 @@ Connections between interface elements
 - Every element visually connected to another
 - Creates a clean, sophisticated, fresh look
 - Grids, rows, columns, borders, text, icons, etc.
+
+#HSLIDE
+
+## Alignment - Example
+
+![Alignment](images/ALIGNMENT.png)
+
+http://www.userfocus.co.uk/articles/A_CRAP_way_to_improve_usability.html
 
 #HSLIDE
 
@@ -121,13 +153,24 @@ Grouping related interface elements
 
 #HSLIDE
 
+## Alignment - Example
+
+![Proximity](images/PROXIMITY.png)
+
+http://www.userfocus.co.uk/articles/A_CRAP_way_to_improve_usability.html
+
+#HSLIDE
+
 ## Questions?
 
 #HSLIDE
 
 ## References
 
-- 
+- The Non-Designer's Design Book, Robin Williams
+- Don't Make Me Think, Steve Krug
+- http://www.userfocus.co.uk/articles/A_CRAP_way_to_improve_usability.html
+- https://vwo.com/blog/crap-design-principles/
 
 #HSLIDE
 
