@@ -7,16 +7,15 @@
 
 #HSLIDE
 
-## We'll learn...
+## What we'll learn...
 
 - What UI is (for this presentation) <!-- .element: class="fragment" -->
 - 5 attributes that are key to a beautiful UI <!-- .element: class="fragment" -->
 - Reasons why these attributes are important <!-- .element: class="fragment" -->
-- Practice makes this info stick <!-- .element: class="fragment" -->
 
 #HSLIDE
 
-## But not...
+## What we won't learn...
 
 - Typography
 - Color
@@ -90,7 +89,6 @@ Difference between interface elements
 - Most important visual attraction
 - Avoid similar (subtly different) elements
 - Different elements should be very different
-- Type, color, size, line thickness, space, etc.
 
 #HSLIDE
 
@@ -102,6 +100,18 @@ http://www.userfocus.co.uk/articles/A_CRAP_way_to_improve_usability.html
 
 #HSLIDE
 
+## Contrast - Elements
+
+- Color
+- Type
+- Size
+- Line thickness
+- Space
+- Etc.
+
+
+#HSLIDE
+
 ## Repetition
 
 Consistency among interface elements
@@ -110,7 +120,6 @@ Consistency among interface elements
 - Can occur across products
 - Creates feel of cohesion and unity
 - Increases perceived credibility (purposeful)
-- Colors, shapes, fonts, sizes, spacing, locations, etc.
 
 #HSLIDE
 
@@ -119,6 +128,17 @@ Consistency among interface elements
 ![Repetition](images/REPETITION.png)
 
 https://vwo.com/blog/crap-design-principles/
+
+## Repetition - Elements
+
+- Colors
+- Icons
+- Shapes
+- Fonts
+- Sizes
+- Spacing
+- Locations
+- Etc.
 
 #HSLIDE
 
@@ -129,7 +149,6 @@ Connections between interface elements
 - Never arbitrary
 - Every element visually connected to another
 - Creates a clean, sophisticated, fresh look
-- Grids, rows, columns, borders, text, icons, etc.
 
 #HSLIDE
 
@@ -138,6 +157,16 @@ Connections between interface elements
 ![Alignment](images/ALIGNMENT.png)
 
 http://www.userfocus.co.uk/articles/A_CRAP_way_to_improve_usability.html
+
+## Alignment - Elements
+
+- Grids
+- Rows
+- Columns
+- Borders
+- Text
+- Icons
+- Etc.
 
 #HSLIDE
 
