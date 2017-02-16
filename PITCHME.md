@@ -59,7 +59,7 @@ Robin Williams (the designer, not the actor) coined the acronym <b>CRAP</b> in h
 
 You'll notice as we talk about of these basic design principles, that they all reduce the mental strain of the user.
 
-Here is where I plug Steve Krug's fantastic book titled <i>Don't Make Me Think</i>. This book is a must-read if you're involved in any way with user interfaces. <!-- .element: class="fragment" -->
+Here is where I plug Steve Krug's fantastic book titled <i>Don't Make Me Think</i>. This book is a must-read if you're involved in any way with user interfaces.
 
 #HSLIDE
 
