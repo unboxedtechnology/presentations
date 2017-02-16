@@ -59,7 +59,7 @@ Robin Williams (the designer, not the actor) coined the acronym <b>CRAP</b> in h
 
 You'll notice as we talk about of these basic design principles, that they all reduce the mental strain of the user.
 
-Here is where I plug Steve Krug's fantastic book titled <i>Don't Make Me Think</i>. This book is a must-read if you're involved in any way with user interfaces.
+Here is where I plug Steve Krug's fantastic book titled <i>Don't Make Me Think</i>. This book is a must-read if you're involved in any way with user interfaces. <!-- .element: class="fragment" -->
 
 #HSLIDE
 
@@ -70,7 +70,6 @@ Area around interface elements
 - Usually have too little (visual suffocation)
 - Used to both group and separate
 - Affects legibility, noise, etc.
-- Margin, padding, type spacing, line spacing, etc.
 
 #HSLIDE
 
@@ -79,6 +78,14 @@ Area around interface elements
 ![Spacing](images/SPACING.png)
 
 https://www.google.com
+
+## Spacing - Elements
+
+- Margin
+- Padding
+- Type (character) spacing
+- Line spacing
+- Etc.
 
 #HSLIDE
 
