@@ -138,6 +138,8 @@ Consistency among interface elements
 
 https://vwo.com/blog/crap-design-principles/
 
+#HSLIDE
+
 ## Repetition - Elements
 
 - Colors
@@ -166,6 +168,8 @@ Connections between interface elements
 ![Alignment](images/ALIGNMENT.png)
 
 http://www.userfocus.co.uk/articles/A_CRAP_way_to_improve_usability.html
+
+#HSLIDE
 
 ## Alignment - Elements
 
